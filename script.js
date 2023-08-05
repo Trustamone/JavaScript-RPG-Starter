@@ -1,3 +1,5 @@
+//JS game
+
 let xp = 0, 
     gold = 50, 
     health = 100, 
