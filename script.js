@@ -19,6 +19,8 @@ const monsterStats = document.querySelector("#monsterStats")
 const monsterNameText = document.querySelector("#monsterName")
 const monsterHealthText = document.querySelector("#monsterHealth")
 
+
+
 const weapons = [
   {
     name: 'stick',
@@ -323,7 +325,7 @@ function pick(guess){
 
 
 
-
+update(locations[0])
 //comment
 
 /*
